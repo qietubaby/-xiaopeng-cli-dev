@@ -1,6 +1,6 @@
 {
   "name": "@xiaopeng-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "core",
   "author": "qietubaby <201951244@qq.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@xiaopeng-cli-dev/utils": "^1.0.1"
+    "@xiaopeng-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "83fdc4f303900ba3cd4b69de53040c2ca582781e"
 }
