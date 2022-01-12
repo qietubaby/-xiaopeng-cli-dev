@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@xiaopeng-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "83fdc4f303900ba3cd4b69de53040c2ca582781e"
 }
